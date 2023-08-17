@@ -1,2 +1,2 @@
-# Data-Manipulation-and-Cleaning-Project3
-This project is my third data cleaning real project using python.
+# Data Preprocessing including Manipulating and Cleaning - Project3
+This project is my third data preprocessing real project using python.
